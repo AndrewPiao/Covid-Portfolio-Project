@@ -1,3 +1,5 @@
+--The Tableau viz can be viewed here: https://tinyurl.com/2evcz32c
+
 SELECT *
 FROM [Portfolio Project 01]..CovidDeaths
 WHERE continent is not null
